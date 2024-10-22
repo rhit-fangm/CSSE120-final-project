@@ -1,0 +1,55 @@
+This file will house your design plan for the project, which must be submitted
+as part of the Project Progress Report.
+
+You should update this file as you work on the project, as designs can
+sometimes change!
+
+
+# -----------------------------------------------------------------------------
+# DONE: Fill in your project and team information below.
+# -----------------------------------------------------------------------------
+
+Team Members: Michael Fang
+Data Set Selected: Comic-characters
+Target Project Grade: A
+
+
+# -----------------------------------------------------------------------------
+# DONE: List the visualizations you plan to generate for your chosen data set.
+#   Clearly identify the type of each visualization, and the information it
+#   will display to the user.
+# -----------------------------------------------------------------------------
+- line plot: number of new hero by year(marvel and dc)
+- line plot: number of female hero by years(marvel and dc)
+- pie chart: good vs bad vs neutral characters
+- bar plot: gender gap of new heroes by year
+
+# -----------------------------------------------------------------------------
+# DONE: List the statistics you plan to compute for your chosen data set.
+#   Describe what information each statistic will give about the data.
+# -----------------------------------------------------------------------------
+
+- number of living Marvel superhero
+- number of living DC superhero
+- number of male characters alive
+- number of female characters alive
+
+# -----------------------------------------------------------------------------
+# DONE: List the functions you plan to write for your software.
+#   Be sure to indicate the inputs, outputs, and goal of each function.
+#   This should be done BEFORE you write any code.
+# -----------------------------------------------------------------------------
+input:
+- ask if user wants to analyze marvel or dc data
+- visualization or statistic
+- give output, ask for customization
+
+
+# -----------------------------------------------------------------------------
+# DONE: Describe at least 2 potential users of your data analysis program.
+#   What might they hope to gain from your chosen data set?
+# -----------------------------------------------------------------------------
+- one might use it to study how culture influence the making of superhero over
+the years.
+- someone might use it to write a article about how long superhero usually live
+after their first appearance.
